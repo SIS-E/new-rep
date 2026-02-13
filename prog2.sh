@@ -1,1 +1,1 @@
-echo "Esta es la Prmer version del archivo prog2"
+echo "Esta es la Segunda version del archivo prog2"
